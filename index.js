@@ -1,4 +1,4 @@
-
+console.log('New Branch Added');
 console.log('starting aws dynamo functions');
 
 var aws= require('aws-sdk');
